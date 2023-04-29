@@ -1,3 +1,17 @@
+# This is a fork of https://github.com/IvanGoncharov/graphql-faker
+
+## Features
+
+- file upload support
+
+![GraphQL Faker logo](./docs/faker-logo-text.png)
+
+# This is a fork of https://github.com/IvanGoncharov/graphql-faker
+
+## Features
+
+- file upload support
+
 ![GraphQL Faker logo](./docs/faker-logo-text.png)
 
 # GraphQL Faker
