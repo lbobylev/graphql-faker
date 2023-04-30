@@ -6,14 +6,6 @@
 
 ![GraphQL Faker logo](./docs/faker-logo-text.png)
 
-# This is a fork of https://github.com/IvanGoncharov/graphql-faker
-
-## Features
-
-- file upload support
-
-![GraphQL Faker logo](./docs/faker-logo-text.png)
-
 # GraphQL Faker
 
 [![Build Status](https://github.com/APIs-guru/graphql-faker/workflows/CI/badge.svg?branch=master)](https://github.com/APIs-guru/graphql-faker/actions?query=branch%3Amaster)
